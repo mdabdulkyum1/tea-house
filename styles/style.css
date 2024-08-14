@@ -9,3 +9,6 @@ section{
     max-width: 1040px;
     margin: 0 auto;
 }
+main > section{
+    margin:120px auto;
+}
